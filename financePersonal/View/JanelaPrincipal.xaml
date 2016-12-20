@@ -5,8 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:financePersonal"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MainWindow" Height="720" Width="1024">
     <Grid>
-        
+        <Menu x:Name="menu" HorizontalAlignment="Left" Height="690" VerticalAlignment="Top" Width="197"/>
+        <Image x:Name="___financePersonal_component_Graphicloads_Flat_Finance_Calculation__1__ico" Margin="30,20,850,541" Source="/View/Images/Logo.ico" Stretch="Fill"/>
+
     </Grid>
 </Window>
