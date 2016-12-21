@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "financePersonal", "financePersonal\financePersonal.csproj", "{B692955C-92A2-4D4C-B020-F7BADB492915}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrcamentoFinanceiro", "OrcamentoFinanceiro\OrcamentoFinanceiro.csproj", "{8D51109B-6FE0-4C84-B205-891CD5FBF33F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B692955C-92A2-4D4C-B020-F7BADB492915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B692955C-92A2-4D4C-B020-F7BADB492915}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B692955C-92A2-4D4C-B020-F7BADB492915}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B692955C-92A2-4D4C-B020-F7BADB492915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D51109B-6FE0-4C84-B205-891CD5FBF33F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D51109B-6FE0-4C84-B205-891CD5FBF33F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D51109B-6FE0-4C84-B205-891CD5FBF33F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D51109B-6FE0-4C84-B205-891CD5FBF33F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
